@@ -1,0 +1,10 @@
+# Altium rác và file tạm
+History/
+__Previews/
+Project Logs for */
+*.PcbDoc.htm
+*.Constraint
+*.Txt
+*.LDP
+*.EDL
+*.Logs.gitignore
